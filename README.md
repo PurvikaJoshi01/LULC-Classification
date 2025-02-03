@@ -57,5 +57,5 @@ Two datasets are used for land classification:
 
 ## Acknowledgments
 - EuroSAT dataset source: [https://www.kaggle.com/datasets/apollo2506/eurosat-dataset]
-- Special thanks to contributors Ayan Sar and Purvika Joshi for their valuable contributions.
+
 
